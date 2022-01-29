@@ -1,15 +1,15 @@
-//Job Pln Khusus Inferno By Atsumu/TsumuX
+//Job Pln Khusus Inferno By TsumuX
 //Discord:Atsumu#3891
 #include <a_samp>
 #include  <zcmd>
 #if defined FILTERSCRIPT
-#define COLOR_YELLOW ffff00
+#define COLOR_YELLOW FFCE00
 #define COLOR_RED FF000FF
 
 public OnFilterScriptInit()
 {
 	print("\n--------------------------------------");
-	print(" Job Pln By Atsumu");//hapus w santet
+	print(" Job Pln By TsumuX");//hapus w santet
 	print("--------------------------------------\n");
 	return 1;
 }
