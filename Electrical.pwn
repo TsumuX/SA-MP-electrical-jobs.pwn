@@ -1,5 +1,5 @@
 //Job Pln Khusus Inferno By TsumuX
-//Discord:Atsumu#3891
+//Discord:Tsumux#1332
 #include <a_samp>
 #include  <zcmd>
 #if defined FILTERSCRIPT
